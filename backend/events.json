@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Freya Mayer - Fan Meeting","image":"https://instabiography.com/wp-content/uploads/2022/02/Freya-Mayer-InstaBiography.jpg","date":"2024-11-12","description":"The amazing Freya Mayer meets with her fans.","id":"624e9fd1-fc47-40dd-a926-22c47de3d226"},{"title":"The Legend of Zelda Gameplay Event","image":"https://www.giantbomb.com/a/uploads/original/9/93770/2363927-snes_thelegendofzeldaalinktothepast_gb.jpg","date":"2024-12-15","description":"this will be the biggest gaming event of the year...","id":"2201775b-8e8d-48ad-a1f8-c9893cfa30e3"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}

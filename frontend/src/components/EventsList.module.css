@@ -16,11 +16,13 @@
   background-color: var(--color-gray-800);
   border-radius: 4px;
   overflow: hidden;
+  transition: 0.15s;
 }
 
 .item a:hover {
   transform: scale(1.02);
   background-color: var(--color-gray-700);
+  box-shadow: 1px 1px 6px whitesmoke;
 }
 
 .item img {

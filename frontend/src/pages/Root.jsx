@@ -9,7 +9,7 @@ function RootLayout() {
     <>
       <MainNavigation />
       <main>
-        {navigation.state === "loading" && <h3>Loading...</h3>}
+        {navigation.state === "loading" && <h2 className="loading-text">Loading...</h2>}
         <Outlet />
       </main>      
     </>

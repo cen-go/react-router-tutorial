@@ -59,3 +59,12 @@ ul {
 .edit-button a:hover {
   background-color: var(--color-primary-900);
 }
+.error-message {
+  color: rgb(255, 44, 86);
+}
+.success-message {
+  color: rgb(104, 229, 104);
+}
+.loading-text {
+  text-align: center;
+}
